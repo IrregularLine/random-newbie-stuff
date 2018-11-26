@@ -1,0 +1,1 @@
+java -jar Pir_mide_de_n_meros.jar
